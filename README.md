@@ -1,16 +1,32 @@
-## Hi there 👋
+## Hi there, I'm Shivani M 👋 
 
-<!--
-**Shivani09M/Shivani09M** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 B.Tech Artificial Intelligence & Data Science Student
+🤖 Interested in Artificial Intelligence & Data Science
+🐍 Learning C program | SQL | Python | HTML 
+💡 Passionate about solving problems through technology
 
-Here are some ideas to get you started:
+About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I am an AI & Data Science student who enjoys learning new technologies and exploring how data and artificial intelligence can be used to solve real-world problems. I am currently building my programming, analytical, and problem-solving skills through academic projects, hackathons, and continuous learning.
+
+🛠️ Tech Stack
+Languages: Python, SQL, HTML, C programming 
+Areas: Artificial Intelligence, Data Science, Data Analysis
+Core Skills: Problem Solving, Computational Thinking, Teamwork
+
+🚀 What I'm Working Towards
+Strengthening my Python and SQL skills
+Learning advanced Data Science
+Building practical AI and Data Science projects
+Participating in hackathons and technical activities
+Developing a strong project portfolio
+
+⚡Fun fact
+A single cloud can weigh around a million tonnes, which is how they manage to float despite their massive size.
+
+📫 Connect With Me
+
+LinkedIn: https://www.linkedin.com/in/shivani-murthi-88413a32a/?isSelfProfile=true
+
+
+
