@@ -5,7 +5,7 @@
 🐍 Learning C program | SQL | Python | HTML 
 💡 Passionate about solving problems through technology
 
-About Me
+👩🏽 About Me
 
 I am an AI & Data Science student who enjoys learning new technologies and exploring how data and artificial intelligence can be used to solve real-world problems. I am currently building my programming, analytical, and problem-solving skills through academic projects, hackathons, and continuous learning.
 
